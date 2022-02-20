@@ -1,0 +1,1 @@
+print("aku siap belajar python!!!!");
